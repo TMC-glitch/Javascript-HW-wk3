@@ -17,7 +17,7 @@
 To Repository:
 https://github.com/TMC-glitch/Javascript-HW-wk3
 
-To Active Page:
+To Active Page: https://tmc-glitch.github.io/Javascript-HW-wk3/
 
 ---
 
