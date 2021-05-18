@@ -1,4 +1,4 @@
-# Week 3 Javascript Homework
+# Week 3 Password Generator
 
 # Requirements:
 
@@ -21,4 +21,12 @@ To Active Page: https://tmc-glitch.github.io/Javascript-HW-wk3/
 
 ---
 
-![Screenshots]
+## Screenshots:
+
+![Password Generator Shot](/Assets/generatorshot1.png)
+
+![Password Genereator Shot](/Assets/generator2.png)
+
+---
+
+Contact Tchaiwanda : tchaiwanda.chambers@gmail.com
