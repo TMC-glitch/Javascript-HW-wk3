@@ -23,7 +23,7 @@ To Active Page: https://tmc-glitch.github.io/Javascript-HW-wk3/
 
 ## Screenshots:
 
-![Password Generator Shot](/Assets/generatorshot1.png)
+![Password Generator Shot](/Assets/generator1.png)
 
 ![Password Genereator Shot](/Assets/generator2.png)
 
